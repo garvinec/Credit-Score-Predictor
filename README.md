@@ -1,7 +1,7 @@
 # Credit Score Predictor
 
 This program uses the perceptron algorithm to classify whether a person has good or bad credit score based on their annual income and credit history. 
-In this program, a person with a ≥690 credit score is considered good. Otherwise, it is considered bad credit score. 
+In this program, a person with a ≥690 credit score is considered good. Otherwise, it is considered a bad credit score. 
 
 Using an alpha value of 20, the program has returned the following:
 
